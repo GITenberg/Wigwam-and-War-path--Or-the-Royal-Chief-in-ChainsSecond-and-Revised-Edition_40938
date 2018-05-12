@@ -1,0 +1,31 @@
+_repo: Wigwam-and-War-path--Or-the-Royal-Chief-in-ChainsSecond-and-Revised-Edition_40938
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40938-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meacham, A. B. (Alfred Benjamin)
+    aliases:
+    - Meacham, Colonel (Alfred Benjamin)
+    - Meacham, Alfred Benjamin
+    birthdate: 1826
+    deathdate: 1882
+    gutenberg_agent_id: '40906'
+    url: http://www.gutenberg.org/2009/agents/40906
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_B._Meacham
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40938'
+  lccn: 02014994
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+title: "Wigwam and War-path; Or, the Royal Chief in Chains\r\nSecond and Revised Edition"
+url: http://www.gutenberg.org/ebooks/40938
